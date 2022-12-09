@@ -1,4 +1,4 @@
-# Lost Angeles Metro Bike Share
+# Lost Angeles Metro Bike Share #parte 2
 ## Para acessar o repositório é necessário seguir os seguintes passos:
 ## Primeiro passo : Adicionar dentro da pasta onde se encontra o arquivo pivot_stations.csv esses arquivos
  * Primeiro arquivo: https://drive.google.com/file/d/1ZgzACETTKZ-hGUEd0Kyqt7bw5HLMsvq9/view
